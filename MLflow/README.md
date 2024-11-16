@@ -1,7 +1,3 @@
-Here’s an updated **README.md** file to match your scenario, where MLflow is run directly in a Docker container:
-
----
-
 # MLflow Logging Example
 
 This project demonstrates how to run an MLflow server using Docker and perform simple logging with MLflow through a Python script or Jupyter Notebook. You can log parameters, metrics, and artifacts and explore the results in the MLflow UI.
